@@ -95,10 +95,5 @@ A few directions this could go next:
 
 ---
 
-## 👤 Developer's Note
 
-I developed this project as a practical study on biomedical embedded systems and C++ object-oriented design. I utilized AI tools as a pair-programmer to bounce ideas off of, help structure the initial architecture, and plan safety workflows. However, the modular file separation, cleaning up the code logic, and terminal simulation loop were driven and verified manually to reflect a realistic learning project.
 
----
-
-*Elsu DEMİRCİ — Biomedical Engineering*
